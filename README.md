@@ -1,1 +1,2 @@
-# opsium
+# Opsium
+Demand Forecasting Project
